@@ -1,0 +1,19 @@
+{
+  "name": "library_for_creating_product_cards",
+  "version": "2.0.0",
+  "description": "library for generating the required number of product cards for tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladislav-create/newNodeJS.git#main"
+  },
+  "author": "29-vinitskiy-vo@mail.ru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladislav-create/newNodeJS/issues"
+  },
+  "homepage": "https://github.com/Vladislav-create/newNodeJS/tree/main#readme"
+}

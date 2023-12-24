@@ -1,0 +1,14 @@
+{
+  "name": "test_use_library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "library_for_creating_product_cards": "^1.0.0"
+  }
+}
